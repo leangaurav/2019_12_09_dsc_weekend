@@ -1,5 +1,7 @@
 Read this!!
 
+
+
 # Access Medium Articles here:
 https://medium.com/the-python-diary
 
