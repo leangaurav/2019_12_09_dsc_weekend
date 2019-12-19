@@ -1,0 +1,4 @@
+#WAP to input single character and print its ascii values.
+
+C = input('enter the character ')
+print('Ascii value of entered character is: {}'.format(ord(C)))
